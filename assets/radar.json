@@ -1,0 +1,27 @@
+{
+  "version": "0.1.0",
+  "sessions": 0,
+  "baseline_done": false,
+  "updated_at": "2026-11-13",
+  "dimensions": {
+    "用户洞察": { "score": null, "samples": 0, "stuck": false },
+    "问题定义": { "score": null, "samples": 0, "stuck": false },
+    "方案取舍": { "score": null, "samples": 0, "stuck": false },
+    "优先级": { "score": null, "samples": 0, "stuck": false },
+    "度量": { "score": null, "samples": 0, "stuck": false },
+    "推动与决策": { "score": null, "samples": 0, "stuck": false }
+  },
+  "stuck_layers": [],
+  "counters": {
+    "rebutted": 0,
+    "voided": 0,
+    "drill_done": 0,
+    "drill_given": 0
+  },
+  "acceptance": {
+    "logs_count": 0,
+    "hit_rate": null,
+    "blind_test_passed": false,
+    "external_review_passed": false
+  }
+}

@@ -1,0 +1,7 @@
+# 运行时状态与训练日志：属于个人训练数据，不入库
+state/
+logs/
+
+# 系统文件
+.DS_Store
+Thumbs.db
